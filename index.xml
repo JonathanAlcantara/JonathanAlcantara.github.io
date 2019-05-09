@@ -6,9 +6,19 @@
     <description>Recent content on Jonathan Alcantara&#39;s HomePage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 09 May 2019 01:31:41 -0300</lastBuildDate>
     
 	<atom:link href="jonathanalcantara.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog</title>
+      <link>jonathanalcantara.github.io/blog/</link>
+      <pubDate>Thu, 09 May 2019 01:31:41 -0300</pubDate>
+      
+      <guid>jonathanalcantara.github.io/blog/</guid>
+      <description> Under Construction! </description>
+    </item>
     
   </channel>
 </rss>
